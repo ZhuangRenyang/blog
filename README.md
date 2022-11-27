@@ -17,3 +17,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-3l9zwd.jpg
 
 ## wallhaven-d6gxpj.png
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-d6gxpj.png
+
+## wallhaven-o5xxv7.jpg
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-o5xxv7.jpg
