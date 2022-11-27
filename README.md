@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-p988wj.jpg
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-6dj8dw.jpg
 
 ## css渐变色模板
-https://github.com/ZhuangRenyang/blog/blob/master/image.png?raw=true
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/image.png
