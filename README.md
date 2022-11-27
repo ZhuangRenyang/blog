@@ -23,3 +23,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-o5xxv7.jpg
 
 ## wallhaven-p988wj.jpg
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-p988wj.jpg
+
+## wallhaven-6dj8dw.jpg
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-6dj8dw.jpg
