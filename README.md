@@ -9,3 +9,6 @@ https://github.com/ZhuangRenyang/blog/blob/main/b.png?raw=true
 
 ## wallhaven-zyxw9g
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-zyxw9g.jpg
+
+## wallhaven-3l9zwd
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-3l9zwd.jpg
