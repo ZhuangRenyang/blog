@@ -29,3 +29,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-6dj8dw.jpg
 
 ## css渐变色模板
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/image.png
+
+## wallhaven-2yeydm.jpg
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-2yeydm.jpg
