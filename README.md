@@ -35,3 +35,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-2yeydm.jpg
 
 ## zr20221231162534.jpg
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/zr20221231162534.jpg
+
+## wallhaven-85o17y
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-85o17y.jpg
