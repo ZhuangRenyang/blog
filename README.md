@@ -38,3 +38,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/zr20221231162534.jpg
 
 ## wallhaven-85o17y
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-85o17y.jpg
+
+## wallhaven-9d6zpx
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-9d6zpx.jpg
