@@ -44,3 +44,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-9d6zpx.jpg
 
 ## wallhaven-gpjm3d.jpg
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-gpjm3d.jpg
+
+## wallhaven-o5drg7
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-o5drg7.jpg
