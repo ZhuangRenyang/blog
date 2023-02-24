@@ -52,3 +52,6 @@ https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-qzz68d.jpg
 
 ## wallhaven-yxqx6k
 https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-yxqx6k.jpg
+
+## wallhaven-kx87e7
+https://raw.githubusercontent.com/ZhuangRenyang/blog/master/wallhaven-kx87e7.jpg
